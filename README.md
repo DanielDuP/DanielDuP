@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/daniel.du‐pless.is-000000?style=for-the-badge‐=About.me‐=white)](https://daniel.du-pless.is)
 [![Email](https://img.shields.io/badge/daniel@du‐pless.is-D14836?style=for-the-badge‐=gmail‐=white)](mailto:daniel@du-pless.is)
-[![X](https://img.shields.io/badge/MARS_BOER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mars_boer)
 [![LinkedIn](https://img.shields.io/badge/dfples-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/something)
 
 </div>
@@ -38,9 +37,12 @@ Or, if you'd like to know what _kind_ of projects these were:
 
 I'm working through an ever growing reading list - please feel free to drop some recommendations!
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielDuP/DanielDuP/master/media/currently_reading_light_mode.png">
-  <img alt="Currently Reading" src="./media/currently_reading_dark_mode.png">
+  <img alt="Currently Reading" src="./media/currently_reading_dark_mode.png" width="60%">
 </picture>
 
 [(Updated daily from OpenLibrary)](https://openlibrary.org/)
+
+</div>
