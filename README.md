@@ -26,7 +26,7 @@ Here's a small window into my repositories - public and private - and how they'v
   <img alt="Repository Languages" src="./media/repo_languages_dark_mode.png">
 </picture>
 
-(Yes, I wrote a lot of php back in the day - no, I didn't know better. Also php >8 is pretty great, fight me.)
+(Yes, I wrote a lot of php back in the day - no, I didn't know better. Also php 8+ is pretty great, fight me.)
 
 Or, if you'd like to know what _kind_ of projects these were:
 
