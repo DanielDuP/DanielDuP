@@ -6,7 +6,7 @@ from danieldup.schemas.Repo import Repo
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-COLOR_WHITE = (245, 245, 245)
+COLOR_WHITE = (255, 255, 255)
 COLOR_GREY = (13, 17, 23)
 
 
